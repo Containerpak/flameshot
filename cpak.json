@@ -3,7 +3,7 @@
   "manifest_version": "2.0",
   "name": "Flameshot",
   "description": "Capture, annotate and share screenshots.",
-  "version": "13.3.0",
+  "version": "14.0.0",
   "image": "ghcr.io/containerpak/flameshot:main",
   "binaries": ["/usr/bin/flameshot"],
   "desktop_entries": ["/usr/share/applications/org.flameshot.Flameshot.desktop"],
