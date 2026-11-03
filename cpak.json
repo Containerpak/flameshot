@@ -4,7 +4,7 @@
   "name": "Flameshot",
   "description": "Capture, annotate and share screenshots.",
   "version": "14.0.0",
-  "image": "ghcr.io/containerpak/flameshot@sha256:c31660f6a4444eafbc8f8cbc6b56810f91185707d717bd31eaba0df93cb6012a",
+  "image": "ghcr.io/containerpak/flameshot@sha256:3f24e0db4712e0c2a0dd14bb2c86cc3db9752c05f4ebbf7d209d66e2d1f2098b",
   "binaries": [
     "/usr/bin/flameshot"
   ],
